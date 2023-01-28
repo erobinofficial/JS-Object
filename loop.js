@@ -5,7 +5,7 @@ for (const keyboard of keyboards){
 
 const phone = {Name: 'Pixel', Brand: 'Google', Model: 'Pixel 3', Color: 'Not Pink', Variation: 'USA Verizon'};
 const keys = Object.keys(phone);
-// console.log(keys);
+console.log(keys);
 // for (const key of keys){
 //     console.log(key, phone[key]);
 // }
